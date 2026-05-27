@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
 .Python
 .env
 .venv
@@ -14,4 +13,6 @@ build/
 .DS_Store
 *.log
 *.tmp
-{data,models,outputs,notebooks}/
+data/
+outputs/
+notebooks/
