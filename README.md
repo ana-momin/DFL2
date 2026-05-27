@@ -13,6 +13,8 @@
 
 *Gitcoin GG24 · Deep Funding Level II · Originality Score Prediction*
 
+**by Momin** · [Contributors](CONTRIBUTORS.md)
+
 </div>
 
 ---
