@@ -16,3 +16,7 @@ build/
 data/
 outputs/
 notebooks/
+data/github_features.csv
+data/dependency_graph.json
+data/graph_features.csv
+data/direct_dependencies.json
